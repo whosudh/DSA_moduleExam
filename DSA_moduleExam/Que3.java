@@ -58,7 +58,7 @@ class Twostack{
 	
 	class Main{
 		public static void main(String...args){
-			Twostack ts = new Twostack(5);
+			Twostack ts = new Twostack(6);
 			
 			ts.push1(5);
 			ts.push2(10);
